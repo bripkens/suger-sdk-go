@@ -9,7 +9,7 @@ info:
   title: Suger API
   version: "1.0"
 servers:
-- url: //https://api.suger.cloud/
+- url: https://api.suger.cloud/
 tags:
 - description: Access to API client resources
   name: API
